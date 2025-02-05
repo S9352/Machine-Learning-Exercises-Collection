@@ -3,12 +3,12 @@ This repository is a collection of hands-on exercises and implementations of var
 
 # Key Features:
 
-Code implementations of popular ML algorithms (e.g., linear regression, decision trees, SVM, k-means, etc.).
+- Code implementations of popular ML algorithms (e.g., linear regression, decision trees, SVM, k-means, etc.).
 
-Exercises with step-by-step explanations and comments.
+- Exercises with step-by-step explanations and comments.
 
-Use Kaggle Datasets for practice and experimentation.
+- Use Kaggle Datasets for practice and experimentation.
 
-Organized by model type and difficulty level for easy navigation.
+- Organized by model type and difficulty level for easy navigation.
 
 Comments are welcome!
