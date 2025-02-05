@@ -1,11 +1,11 @@
 # Machine-Learning-Exercises-Collection
-This repository is a collection of hands-on exercises and implementations of various machine learning models and algorithms. It serves as a practical guide for learning and experimenting with concepts such as supervised learning, unsupervised learning, neural networks, and more. Each exercise includes code, explanations and datasets to help you understand and apply machine learning techniques effectively. 
+This repository is a collection of my hands-on exercises and implementations of various machine learning models and algorithms. It documents my journey of learning and experimenting with concepts such as supervised learning, unsupervised learning, neural networks, and more. Each exercise includes code, explanations, and datasets that I've worked on to deepen my understanding and apply machine learning techniques effectively. This repository serves as both a personal practice space and a resource for others who are on a similar learning path.
 
 # Key Features:
 
-- Code implementations of popular ML algorithms (e.g., linear regression, decision trees, SVM, k-means, etc.).
+- My implementations of popular ML algorithms (e.g., linear regression, decision trees, SVM, k-means, etc.).
 
-- Exercises with step-by-step explanations and comments.
+- Exercises with step-by-step explanations and comments based on my learning process.
 
 - Use Kaggle Datasets for practice and experimentation.
 
